@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": "$29/month",
+      "info": "Perfect for beginners who want access to essential equipment and facilities.",
+      "features": [
+        "Access to gym equipment",
+        "1 personal training session/month",
+        "Locker room access",
+        "Open from 6am to 10pm"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "price": "$49/month",
+      "popular": true,
+      "info": "Great for regular fitness enthusiasts with added benefits.",
+      "features": [
+        "Everything in Basic",
+        "4 personal training sessions/month",
+        "Free group classes (Zumba, Yoga, HIIT)",
+        "Sauna access",
+        "Nutrition guide",
+        "Body composition scan"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "price": "$79/month",
+      "info": "All-inclusive package for serious athletes and transformation seekers.",
+      "features": [
+        "Everything in Standard",
+        "Unlimited personal training",
+        "Priority support & consultations",
+        "Body assessment and tracking",
+        "24/7 gym access",
+        "Free merchandise (t-shirt, shaker, etc.)",
+        "Private locker",
+        "Massage therapy session/month",
+        "Access to premium workshops"
+      ]
+    }
+  ]
+  
