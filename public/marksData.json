@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "Ayaan",
+      "marks": { "Math": 85, "English": 78, "Science": 92 }
+    },
+    {
+      "id": 2,
+      "name": "Zara",
+      "marks": { "Math": 90, "English": 88, "Science": 81 }
+    },
+    {
+      "id": 3,
+      "name": "Rafi",
+      "marks": { "Math": 76, "English": 65, "Science": 70 }
+    },
+    {
+      "id": 4,
+      "name": "Nadia",
+      "marks": { "Math": 92, "English": 95, "Science": 89 }
+    },
+    {
+      "id": 5,
+      "name": "Hasan",
+      "marks": { "Math": 68, "English": 74, "Science": 64 }
+    },
+    {
+      "id": 6,
+      "name": "Tania",
+      "marks": { "Math": 88, "English": 90, "Science": 85 }
+    },
+    {
+      "id": 7,
+      "name": "Farhan",
+      "marks": { "Math": 80, "English": 72, "Science": 77 }
+    },
+    {
+      "id": 8,
+      "name": "Lubna",
+      "marks": { "Math": 95, "English": 91, "Science": 96 }
+    },
+    {
+      "id": 9,
+      "name": "Omar",
+      "marks": { "Math": 60, "English": 66, "Science": 58 }
+    },
+    {
+      "id": 10,
+      "name": "Mehzab",
+      "marks": { "Math": 73, "English": 80, "Science": 79 }
+    }
+  ]
+  
